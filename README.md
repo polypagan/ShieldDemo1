@@ -14,7 +14,7 @@ D1R32pins.h defines the gpio --> data mapping used on the D1 R32 board.
 
 WeMOS (really? Does LOLIN claim this? They don't seem to document it.) D1 R32 is an ESP32 board in Arduino (Uno) format. 
 As always with cards like this, some liberties had to be taken. Here is a rough pinout:
-
+|--------------|---|
 |              |SDA|
 |              |SCL|
 |              |Reset|
